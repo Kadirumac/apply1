@@ -1,0 +1,50 @@
+:root{
+  --mainBlue:#111414;
+  --lightBlue:#293131;
+  --mainWhite:#f3f3f3;
+  --mainDark:#464545;
+  --mainYellow:#ffa400;
+
+}
+
+body{
+  font-family: 'Oswald',sans-serif !important;
+ 
+  background-repeat: no-repeat ;
+  background-size: cover;
+  color:var(--mainDark) !important;
+  background-image: linear-gradient(to bottom, rgb(214, 213, 213), rgb(255, 255, 255)) !important;
+}
+.text-title{
+  font-family: 'Domine', cursive;
+  letter-spacing:0.3rem ;
+  text-transform: uppercase;
+}
+.text-blue{
+  color:var(--mainBlue);
+}
+
+.text-bright{
+  color: var(--lightBlue);
+}
+.btn-black{
+  background: transparent;
+  text-transform: capitalize;
+  font-size: 0.8rem !important;
+  color: var(--mainDark);
+  border-radius: 0 !important;
+  border: 0.1rem solid var(--mainDark) !important;
+
+}
+
+.btn-black:hover{
+  background: var(--mainDark) !important;
+  color: var(--mainWhite) !important;
+}
+.cart-icon{
+  cursor: pointer;
+  font-size: 1.2rem;
+  color:var(--mainYellow);
+}
+
+
