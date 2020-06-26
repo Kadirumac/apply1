@@ -101,16 +101,11 @@ class Home extends Component {
                 </div>
              </div>
            
-                <div className="container">
-       
-                     <div className="row">
-                   
-                        <div className="col-10 mx-auto my-2 text-center text-title">
-                      
-                                <h5 className="text-uppercase mr-5 my-3 fs ">
+                <div className="container">       
+                     <div className="row">                
+                        <h5 className="text-uppercase fs">
                                     <strong >skills that I have been learning...</strong>  
-                                </h5>
-                        </div>
+                                </h5>                        
                     </div>
                
                
@@ -223,10 +218,7 @@ const Codes = styled.div`
 
 .fs{
     color:grey;
-    font-family:Tenor Sans; 
-    letter-spacing:1.5px;
-    line-height:0
-    
+    font-family:Tenor Sans;     
 }
 `
 

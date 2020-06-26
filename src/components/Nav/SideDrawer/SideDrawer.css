@@ -1,5 +1,5 @@
 .side-drawer{
-    height: 98vh;
+    height: 100vh;
     background: rgb(11,11,11);
     background: linear-gradient(180deg, rgba(11,11,11,1) 0%, rgba(244,234,234,1) 52%, rgba(0,0,0,1) 100%);
     box-shadow: 2px 0px 5px rgba(0, 0, 0, 0.5);

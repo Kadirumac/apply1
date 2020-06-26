@@ -17,9 +17,9 @@ const SideDrawer = props => {
             <span  > </span>
   
            
+            <a onClick={props.click} href="#home" className="bigA">Home</a>
             <a onClick={props.click} href="#projects" className="bigA">Projects</a>
             <a onClick={props.click} href="#contact"className="bigA">Contact</a>
-            <a onClick={props.click} href="#home">Home</a>
             
                       
         </div>
