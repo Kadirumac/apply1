@@ -28,7 +28,7 @@ class App extends Component{
          
             <Route component={Default}></Route>
           </Switch>
-          <Physics />
+ 
             
       </React.Fragment>
 

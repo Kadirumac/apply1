@@ -155,8 +155,10 @@ class Home extends Component {
        
              </Codes>
              <Social >
-                <div className="container mb-2" id="contact">
-                    <h2 className="text-center">Contact</h2>    
+         
+                <footer className="bg-dark text-center text-light pb-5" >       <div className="container mb-2" id="contact">
+        
+                  <h2>  <Wave text='Contact' iterations='1'  effect="verticalFadeOut" effectChange={1.2}/></h2>
                     <div className="row">  
                         <div className="col-lg-5 col-md-8 col-sm-10  mt-5 pt-3 mx-auto card" bg="info">
                             <ul>
@@ -195,7 +197,7 @@ class Home extends Component {
                    
                     </div>
 
-                </div>
+                </div></footer>
                 </Social>
             </React.Fragment>
         );

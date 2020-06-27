@@ -94,7 +94,7 @@ export default function Physics() {
   useEffect(() => void setTimeout(() => set(false), 5000), [])
   return (
     <Canvas
-      camera={{ position: [0, 0, 15] }}
+      camera={{ position: [0, 0, 30] }}
       onCreated={({ gl }) => ((gl.shadowMap.enabled = true), (gl.shadowMap.type = THREE.PCFSoftShadowMap))}>
       <ambientLight intensity={0.5} />
       <spotLight intensity={0.6} position={[30, 30, 50]} angle={0.2} penumbra={1} castShadow />
