@@ -51,7 +51,7 @@ class Home extends Component {
                         {/* product info */}
                         <div className="row">
                             <div className="mx-auto col-md-6 my-3 ">
-                                <img width="300px" height="300px" src={img} className="rounded-circle ml-3 " alt="product"/>
+                                <img width="400px" height="400px" src={img} className="rounded-circle ml-3 " alt="product"/>
                             </div>
                             {/* product text */}
                             <div className="col-10 mx-auto col-md-6 my-3 ">

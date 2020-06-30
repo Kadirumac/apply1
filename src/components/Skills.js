@@ -27,10 +27,7 @@ class Skills extends Component {
                                     </h6>
                               {this.props.label ?   <ProgressBar className="my-1" 
                                 label={`${text} degree`}
-                                variant={variant} style={{background:'#9690904f'}}  now={ratio} /> :
-                                <ProgressBar className="my-1" 
-                              
-                                variant="info" animated style={{background:'#9690904f'}}  now={ratio} />}
+                                variant={variant} style={{background:'#9690904f'}}  now={ratio} /> :null}
                                 </div>  
                              </div>
                              </div>       

@@ -117,7 +117,7 @@ export const listProjects = [
   export const about =   {
     id: 1,
     title: "Kadir Umac",
-    img: "img/img2.jpeg",
+    img: "img/me3.jpeg",
     type: "Full Stack Web Developer",
     info: " I am graduated from the Industrial Engineering Department in 2012 and worked as an engineer for 6 years. During this time, I had the opportunity to improve my programming skills. Furthermore, I have been living and working in Germany for the last two years.\n Germany has a special education system to understand the latest technology. It is called \'Weiterbildung\' (continuing education) in German. I continue to develop my skills and work as a part-time in this education system. \n  Although there are so many frameworks and programming languages that are called great today, I prefer to work in areas where I feel more capable.I have been involved in more than 20 projects in the last two years. Although some of these were entry-level projects, most were professional projects.\n I gained new talents in every project I participated in and learned many new things.I have received many certificates, but I would like to share two of them especially with you. The first one is the Web Developer certificate I received from DCI (Digital Career Institute-Dusseldorf), and the second one is the Google-Professional IT Support certificate I received from google.",
     
