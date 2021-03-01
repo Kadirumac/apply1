@@ -32,7 +32,7 @@
     "react-use-measure": "^2.0.0",
     "styled-components": "^5.0.1",
     "styled-jsx": "3.2.4",
-    "three": "^0.115.0",
+    "three": "^0.125.0",
     "threejs-meshline": "^2.0.10",
     "tiny-emitter": "^2.1.0",
     "zustand": "^2.2.3"
